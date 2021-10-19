@@ -1,2 +1,2 @@
 # HTML-Login-pages
-A repository full with open source login pages build with HTML, CSS and JavaScript
+A repository full with open source login pages build with HTML and CSS
